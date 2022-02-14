@@ -10,7 +10,7 @@
 | 18/0145088  |  Gabriel Bonifácio |
 
 ## Sobre 
-O objetivo deste projeto é identificar o peso das relações pessoais em um grafo, verificando a partir de uma pessoa com COVID e uma pessoas sem COVID como seria a trasmissão mais propricia entre estas pessoas.
+O objetivo deste projeto é identificar o peso das relações pessoais em um grafo, verificando a partir de uma pessoa com COVID e uma pessoas sem COVID como seria a transmissão mais propicia entre estas pessoas.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
