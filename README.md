@@ -19,6 +19,12 @@
 
 O objetivo deste projeto é identificar o peso das relações pessoais em um grafo, verificando a partir de uma pessoa com COVID e uma pessoa sem COVID como seria a trasmissão mais propicia entre estas pessoas. Utilizamos um dataset de personagens do musical 'Les Miserables' para podermos fazer essas comparações.
 
+### Apresentação
+
+Para acessar a apresentação, basta acessar este link: <a href="https://youtu.be/xkGb-E2KNz4" target="_blank">https://youtu.be/xkGb-E2KNz4</a>.
+
+Você pode baixar também a apresentação aqui no nosso repositório.
+
 ## Screenshots
 
 <div align="center">
